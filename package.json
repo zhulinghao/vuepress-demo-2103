@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-demo-2103",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhulinghao/vuepress-demo-2103.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhulinghao/vuepress-demo-2103/issues"
+  },
+  "homepage": "https://github.com/zhulinghao/vuepress-demo-2103#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
